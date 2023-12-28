@@ -12,8 +12,11 @@ Welcome to the Google Exploratory Data Analysis (GOOGLEEDA) project repository. 
 
 **Features**
 Data Exploration: Analyze Google datasets to understand patterns and relationships.
+
 Visualization: Utilize various visualization techniques to represent data findings effectively.
+
 Statistical Analysis: Apply statistical methods to uncover hidden patterns and correlations.
+
 Insightful Reports: Generate comprehensive reports summarizing key findings from the analysis.
 
 
@@ -23,7 +26,9 @@ Insightful Reports: Generate comprehensive reports summarizing key findings from
 
 **Technologies Used**
 Programming Language: Python
+
 Libraries and Frameworks: Numpy, Pandas, Matplotlib, Seaborn
+
 Tools: Google Colab
 
 
